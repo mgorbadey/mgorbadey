@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mgorbadey
 - 👀 I’m interested in frontend
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: gormisha05@gmail.com
 
 <!---
