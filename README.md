@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @mgorbadey
-- 👀 I’m interested in frontend
-- 🌱 I’m currently learning React
-- 📫 How to reach me: gormisha05@gmail.com
+- 👋 Hi, I’m Mikhail Gorbadey @mgorbadey
+- 👀 Elbrus 2022 JS Online student
+- 📫 How to reach me: gormisha05@yandex.ru
 <img src='https://www.codewars.com/users/mgorbadey/badges/large' alt='codewars'>
 <!---
 mgorbadey/mgorbadey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
