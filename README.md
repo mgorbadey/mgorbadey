@@ -7,6 +7,8 @@
 - 📫 How to reach me: **gormisha05@yandex.ru / Telegram @gorbadey_m**
 
 - ⚡ Fun fact: **I can tell you what geosteering means**
+
+
 <a href="https://www.codewars.com/" target="blank"><img alt="codewars" src="https://www.codewars.com/users/mgorbadey/badges/large"></a>
 
 <h3 align="left">Connect with me:</h3>
