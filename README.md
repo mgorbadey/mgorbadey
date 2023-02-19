@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/gorbadey_m" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="@gorbadey_m" height="40" width="40" /></a>
+<a href="https://t.me/gorbadey_m" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" alt="@gorbadey_m" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/mikhail-gorbadey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikhail-gorbadey" height="40" width="40" /></a>
 <a href="https://instagram.com/@gorbadey_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@gorbadey_m" height="40" width="40" /></a>
 </p>
