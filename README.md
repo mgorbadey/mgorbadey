@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Moscow</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-- 🌱 I’m currently learning **NextJS & NestJS**
+- 🌱 I’m currently learning [**Feature-Sliced Design Architectural methodology for frontend projects**](https://feature-sliced.design/)
 
 - 📫 How to reach me: **gormisha05@yandex.ru / Telegram @gorbadey_m**
 
