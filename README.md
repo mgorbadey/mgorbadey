@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Mikhail Gorbadey 👋</h1>
+<h1 align="center">Hello, I'm Mikhail Gorbadey</h1>
 <h3 align="center">A passionate frontend developer from Moscow</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
